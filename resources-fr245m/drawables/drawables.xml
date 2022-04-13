@@ -1,0 +1,9 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="id_monkey40" filename="pizza-40.png" />
+    <bitmap id="id_monkey50" filename="pizza-50.png" />
+    <bitmap id="id_monkey100" filename="pizza-100.png" />
+    <bitmap id="id_monkey40n" filename="pizza-40l.png" />
+    <bitmap id="id_monkey50n" filename="pizza-50l.png" />
+    <bitmap id="id_monkey100n" filename="pizza-50l.png" />    
+</drawables>
